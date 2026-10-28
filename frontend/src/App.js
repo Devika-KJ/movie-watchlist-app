@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Film, Star, Clock, AlertCircle, PlusCircle, Sparkles, Trash2, Edit, CheckCircle } from 'lucide-react';
 import './App.css';
 
-const API_URL = "https://movie-watchlist-backend-ju1s.onrender.com/api/movies";
+const API_BASE = "https://movie-watchlist-backend-ju1s.onrender.com/api/movies";
 
 function App() {
   const [movies, setMovies] = useState([]);
