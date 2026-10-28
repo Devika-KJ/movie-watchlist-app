@@ -26,13 +26,14 @@ A full-stack Movie Watchlist Manager web application built for the MERN stack ex
 
 ## 📸 Application Screenshots
 
-*(Placeholder note: Ensure you take 2 screenshots of your working app—e.g., the Dashboard view and the Add Movie modal/Watch Next banner—and place them in an `assets/` folder or drag-and-drop them directly into your GitHub README file)*
+## 📸 Application Screenshots
 
 ### 1. Dashboard & Statistics Overview
-![Dashboard View](./assets/dashboard-screenshot.png)
+![Dashboard View](./Dashboard (2).png)
 
-### 2. Add Movie & Watch Next Recommendations
-![Watch Next & Modal](./assets/watchnext-screenshot.png)
+### 2. Movie Watchlist & Management
+![Add Movie](./Add Movie.png)
+*(Note: You can use the same image or add a second one named `screenshot2.png` if you took two different views!)*
 
 ---
 
